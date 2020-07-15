@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![HitCount](http://hits.dwyl.com/iansmith123/iansmith123.svg)](http://hits.dwyl.com/iansmith123/iansmith123)
 
 <!--
 **IanSmith123/IanSmith123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
