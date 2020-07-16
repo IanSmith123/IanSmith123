@@ -1,5 +1,11 @@
-### Hi there 👋
+### 
+Hi, I'm Les1ie. 
+
+I'm a student from the University of China Academy of Sciences.
+
+
 [![HitCount](http://hits.dwyl.com/iansmith123/iansmith123.svg)](http://hits.dwyl.com/iansmith123/iansmith123)
+![](https://github-readme-stats.vercel.app/api?username=iansmith123&show_icons=true&hide_border=true)
 
 <!--
 **IanSmith123/IanSmith123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
