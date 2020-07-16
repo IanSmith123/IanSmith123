@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<html>
+  <svg onload svg onload="javascript:javascript:alert(1)"></svg onload>
+
+  </html>
