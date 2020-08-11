@@ -7,6 +7,8 @@ I'm a student from the University of China Academy of Sciences.
 
 ![](https://github-readme-stats.vercel.app/api?username=iansmith123&show_icons=true&hide_border=true)
 
+<img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif">
+
 <!--
 **IanSmith123/IanSmith123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
