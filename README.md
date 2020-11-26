@@ -7,6 +7,9 @@ I'm a student from the University of China Academy of Sciences.
 
 ![](https://github-readme-stats.vercel.app/api?username=iansmith123&show_icons=true&hide_border=true)
 
+
+
+🔭 What I did over the past week :)
 <!--START_SECTION:waka-->
 ```text
 Python   51 mins         █████████████████████▒░░░   85.87 % 
