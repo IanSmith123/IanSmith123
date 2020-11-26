@@ -8,6 +8,10 @@ I'm a student from the University of China Academy of Sciences.
 ![](https://github-readme-stats.vercel.app/api?username=iansmith123&show_icons=true&hide_border=true)
 
 <!--START_SECTION:waka-->
+```text
+Python   51 mins         █████████████████████▒░░░   85.87 % 
+Go       8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+```
 <!--END_SECTION:waka-->
 
 <img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif">
