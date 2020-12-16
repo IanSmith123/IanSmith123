@@ -1,7 +1,7 @@
 ### 
 Hi, I'm Les1ie. 
 
-I'm a student from the University of China Academy of Sciences.
+I'm a student from the University of Chinese Academy of Sciences.
 
 <img src="https://komarev.com/ghpvc/?username=iansmith123" alt="iansmith123" />
 
