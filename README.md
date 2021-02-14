@@ -13,8 +13,7 @@ I'm a student from the University of Chinese Academy of Sciences.
 🔭 What I did over the past week :)
 <!--START_SECTION:waka-->
 ```text
-sh       6 mins          ████████████████████▒░░░░   81.42 % 
-HTML     1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+HTML     1 min           ██████████████▓░░░░░░░░░░   58.98 % 
 ```
 <!--END_SECTION:waka-->
 
