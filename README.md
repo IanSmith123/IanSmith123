@@ -13,9 +13,7 @@ I'm a student from the University of Chinese Academy of Sciences.
 🔭 What I did over the past week :)
 <!--START_SECTION:waka-->
 ```text
-Python       1 hr 48 mins    ████████████████████████░   95.53 % 
-Markdown     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
