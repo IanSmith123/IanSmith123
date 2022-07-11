@@ -14,8 +14,7 @@ I'm a student from the University of Chinese Academy of Sciences.
 <!--START_SECTION:waka-->
 
 ```text
-JSON   44 mins         ████████████████████████░   95.74 %
-SQL    2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+SQL    2 mins          █████████████████████████   100.00 %
 Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
