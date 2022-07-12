@@ -14,8 +14,9 @@ I'm a student from the University of Chinese Academy of Sciences.
 <!--START_SECTION:waka-->
 
 ```text
-SQL    2 mins          █████████████████████████   100.00 %
-Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+SQL        2 mins          █████████████████░░░░░░░░   67.87 %
+Text       0 secs          ████████░░░░░░░░░░░░░░░░░   32.13 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
