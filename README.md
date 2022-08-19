@@ -14,7 +14,7 @@ I'm a student from the University of Chinese Academy of Sciences.
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   2 hrs 1 min     █████████████████████████   100.00 %
+Markdown   5 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
