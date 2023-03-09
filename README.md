@@ -14,8 +14,8 @@ I'm a student from the University of Chinese Academy of Sciences.
 <!--START_SECTION:waka-->
 
 ```text
-Python     33 mins         ████████████████████████▓   98.67 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Python     1 hr 32 mins    █████████████████████████   99.52 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
