@@ -14,10 +14,11 @@ I'm a student from the University of Chinese Academy of Sciences.
 <!--START_SECTION:waka-->
 
 ```txt
-Python           2 hrs 13 mins   ████████████████████████▓   98.88 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-JSON-lines       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Python           4 hrs 35 mins   ███████████████████████▒░   93.68 %
+JSON-lines       12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+ActionScript 3   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+XML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Markdown         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
