@@ -14,11 +14,11 @@ I'm a student from the University of Chinese Academy of Sciences.
 <!--START_SECTION:waka-->
 
 ```txt
-Python             2 hrs 34 mins   ████████████████████▒░░░░   80.99 %
-Markdown           27 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
-Jupyter            6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-Other              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Text               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Python             2 hrs 6 mins    ████████████████████░░░░░   80.64 %
+Markdown           28 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
+Other              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Text               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+reStructuredText   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
